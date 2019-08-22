@@ -1,0 +1,17 @@
+{
+  "name" : "kbide-plugin-multiplexer-breakout---8-channel-74hc4051",
+  "title": "multiplexer-breakout---8-channel-74hc4051",
+  "keywords": "multiplexer-breakout---8-channel-74hc4051, esp32, esp8266, arduino",
+  "description": "multiplexer-breakout---8-channel-74hc4051 plugin for KB-IDE",
+  "category":"",
+  "git": "https://github.com/cmmc-kbide/kbide-plugin-multiplexer-breakout---8-channel-74hc4051/",
+  "author": "cmmakerclub",
+  "email": "",
+  "url": "https://github.com/cmmc-kbide/kbide-plugin-multiplexer-breakout---8-channel-74hc4051/",
+  "version": "1.0.0",
+  "board" : "",
+  "platform": ["arduino-esp32"],
+  "license": "",
+  "image" : "/static/display.png",
+  "homepage": "http://www.kbide.org"
+}
